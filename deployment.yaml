@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: java-app 
-        image: 23mis0594/java-app:latest --- 
+        image: aadhee2005/java-app:latest --- 
 apiVersion: v1 
 kind: Service 
 metadata: 
